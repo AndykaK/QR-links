@@ -12,7 +12,6 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    /* margin: 5%; */
     margin-top: 30px;
 }
 
@@ -28,21 +27,15 @@ img {
 
 h3 {
     text-align: center;
-    font-size: 1rem;
+    font-size: 1.2rem;
     margin-top: 50px;
 }
-
-/* #name {
-    margin-top: 12%;
-} */
 
 .article {
     background-color: #ccd6e1;
     border-radius: 10px;
     box-shadow: 0 0 20px rgb(53, 53, 53);
     text-align: center;
-    /* margin: 5%;
-    padding: 5%;     */
     margin: 30px;
     padding: 15px;
 }
@@ -59,9 +52,11 @@ a:hover {
 }
 
 footer {
-    margin: 50px;
+    margin-top: 30px;
+    margin-bottom: 50px;
 }
 
 footer img {
     height: 30px;
 }
+
