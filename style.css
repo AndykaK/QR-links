@@ -65,4 +65,9 @@ footer {
     flex-direction: column;
     /* margin: 5%; */
     margin: 50px;
+
+}
+
+footer img {
+    height: 50px
 }
